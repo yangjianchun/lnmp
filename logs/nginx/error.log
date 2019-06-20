@@ -1,0 +1,8 @@
+2019/06/20 08:38:07 [emerg] 1#1: host not found in upstream "swoft:9501" in /etc/nginx/conf.d/upstream.conf:1
+2019/06/20 08:43:11 [emerg] 1#1: host not found in upstream "swoft:9501" in /etc/nginx/conf.d/upstream.conf:1
+2019/06/20 08:44:51 [emerg] 1#1: host not found in upstream "swoft:9501" in /etc/nginx/conf.d/upstream.conf:1
+2019/06/20 09:56:58 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/sites-available/swoft.conf:12
+2019/06/20 10:03:58 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/sites-available/swoft.conf:12
+2019/06/20 10:05:17 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/sites-available/swoft.conf:12
+2019/06/20 10:05:36 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/sites-available/swoft.conf:12
+2019/06/20 10:07:36 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/sites-available/swoft.conf:12
